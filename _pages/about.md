@@ -2,14 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>UCSB</p>
     <p>Santa Barbara, California</p>
 
 news: false # includes a list of news items
@@ -18,8 +17,20 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello there!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Currently, I'm a second-year computer science student at the University of California, Santa Barbara. While I am only a second-year, I will graduate early in the Spring of 2025, making me a junior. As of now, I plan on getting my Master's degree in computer science and heading to industry after.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Originally, I'm from Burlington, Washington, a semi-rural farm town about an hour north of Seattle. I love the Pacific Northwest and consider it my home, however, Santa Barbara is hard to beat. I consider myself extremely blessed to study at such a quality university in such a beautiful place.
+
+My interests lie in all sorts of areas. I've always been an avid creative, founding an independent music label, [_9929 Records_](/projects), which has seen an incredible amount of streams. My life before college was devoted to athletics, something I still hold dear to my heart. However, as I've become dedicated to computer science, I've been enamored with computability theory, quantum computing, cryptocurrency, and security—all I wish I knew more about. I'm also a huge fan of the outdoors, and I love to hike, camp, and run.
+
+Feel free to react out to me via email!
+
+Please check out my [research](/research), [work experience](/experience), and [projects](/projects).
+
+--
+
+["Beloved, if God so loved us, we also ought to love one another." - 1 John 4:11](https://www.bible.com/bible/59/1jn.4.11)
+
+<!-- I am currently working on a few projects, which you can find on my [projects page](/projects). I am also working on a few papers, which you can find on my [papers page](/papers). I am also working on a few other things, which you can find on my [other page](/other). -->
