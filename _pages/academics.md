@@ -54,3 +54,4 @@ Throughout my time at UCSB, I have taken a variety of classes. Nonetheless, I've
 - CS 154: Computer Architecture
 - CS 160: Translation of Programming Languages
 - ENGR 101: Ethics in Engineering
+- CS 196: Undergraduate Research
