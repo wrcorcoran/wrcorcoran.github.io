@@ -23,7 +23,7 @@ Currently, I'm a second year computer science student at the University of Calif
 
 Originally, I'm from Burlington, Washington, a semi-rural farm town about an hour north of Seattle. I love the Pacific Northwest and consider it my home, however, Santa Barbara is hard to beat. I consider myself extremely blessed to study at such a quality university in such a beautiful place.
 
-My interests lie in all sorts of areas. I've always been an avid creative, founding an independent music label, [_9929 Records_](/projects), which has seen an incredible amount of streams. My life before college was devoted to athletics, something I still hold dear to my heart. However, as I've become dedicated to computer science, I've been enamored with computability theory, quantum computing, cryptocurrency, and security—all I wish I knew more about. I'm also a huge fan of the outdoors, and I love to hike, camp, and run.
+My interests lie in all sorts of areas. I've always been an avid creative, founding an independent music label, [_9929 Records_](/projects/1_project), which has seen an incredible amount of streams. My life before college was devoted to athletics, something I still hold dear to my heart. However, as I've become dedicated to computer science, I've been enamored with computability theory, quantum computing, cryptocurrency, and security—all I wish I knew more about. I'm also a huge fan of the outdoors, and I love to hike, camp, and run.
 
 Feel free to reach out to me via email!
 
