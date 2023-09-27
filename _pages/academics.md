@@ -11,7 +11,7 @@ nav_order: 2
 ---
 
 ## accolades
-Throughout my time at UCSB, I have taken a variety of classes. Nonetheless, I've manage to hold a few accolades:
+Throughout my time at UCSB, I have taken a variety of classes. Nonetheless, I've managed to hold a few accolades:
 - Dean's List (all quarters)
 - Regents Scholar (given to the top 1% of incoming students)
 - Engineering Honors Program (all quarters)

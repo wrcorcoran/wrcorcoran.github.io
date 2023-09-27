@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - wrcorcoran
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - AjayLiu/verde
+  - wrcorcoran/DS-STARTUP-EVALUATION
+  - wrcorcoran/PORTFOLIO-DISPLAY
+  - wrcorcoran/pythagorean-W-L
+  - wrcorcoran/wrcorcoran.github.io
