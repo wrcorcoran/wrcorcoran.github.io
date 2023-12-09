@@ -40,7 +40,7 @@ Throughout my time at UCSB, I have taken a variety of classes. Nonetheless, I've
 - [Writing 107WC: Writing Web Content Online](https://my.sa.ucsb.edu/catalog/current/CollegesDepartments/ls-intro/writ.aspx?DeptTab=Courses), **A**
 
 #### **fall 2023**
-- [CS 130A: Data Structures and Algorithms I](https://sites.cs.ucsb.edu/~vigoda/OLD-130A-Fall22/), **N/A**
+- [CS 130A: Data Structures and Algorithms I](https://sites.cs.ucsb.edu/~vigoda/OLD-130A-Fall22/), **A**
 - [CS 111: Introduction to Computational Science (Matrices)](https://ucsb-cs111.github.io/), **N/A**
 - [CS 110: Introduction to Research in Computer Science](https://ersp.cs.ucsb.edu/), **N/A**
 - [Physics 2: Basic Physics II](https://my.sa.ucsb.edu/catalog/Current/CollegesDepartments/ls-intro/phys.aspx?DeptTab=Courses), **N/A**
@@ -48,9 +48,8 @@ Throughout my time at UCSB, I have taken a variety of classes. Nonetheless, I've
 #### *tentatives for winter 2024 and spring 2024*
 - CS 130B: Data Structures and Algorithms II
 - CS 64: Introduction to Computer Organization
-- Physics 3: Basic Physics III
-- PSTAT 120B: Probability and Statistics II
-- CS 165A: Artificial Intelligence
+- CS 190A: Algorithms Engineering
+- CS 165B: Machine Learning
 - CS 154: Computer Architecture
 - CS 160: Translation of Programming Languages
 - ENGR 101: Ethics in Engineering

@@ -9,6 +9,9 @@ nav_order: 3
 This year, I will be researching in the [Dynamic Networks: Analysis and Modeling Lab (Dynamo)](https://dynamo.cs.ucsb.edu/) under guidance from Dr. Ambuj Singh. 
 Fortunately, this is through [UCSB's Early Research Scholars Program (ERSP)](https://ersp.cs.ucsb.edu/home).
 
+## GitHub
+See the repository [here](https://github.com/wrcorcoran/querying-graphs)!
+
 ## Project
 As the year just began, I am just starting in the lab. Here is description of this year's [research project](https://ersp.cs.ucsb.edu/2023-2024-projects/group-6-2023-2024):
 - Graph neural networks transform the nodes of a graph into a high dimensional latent space.
@@ -22,5 +25,13 @@ As the year just began, I am just starting in the lab. Here is description of th
 
 **Other Teammates**: Wyatt Hamabe, Niyati Mummidivarapu
 
-## Log of Findings and Progess:
-As time progresses, I will update this with comments on papers, progess, etc.
+---
+## Fall
+
+#### Research Proposal:
+<object data="../assets/pdf/SinghProjectProposal-Final-Final.pdf" width="1000" height="1000" type='application/pdf'></object>
+
+&nbsp;
+
+#### Research Proposal Presentation:
+<object data="../assets/pdf/FINALSLIDES_TEAMSINGH.pdf" width="1000" height="1000" type='application/pdf'></object>
