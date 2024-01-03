@@ -82,7 +82,7 @@
     - title: order of proficiency
       items:
         - C++
-        - Python + various packages
+        - Python (with various packages)
         - JavaScript
         - TypeScript
         - React Native
@@ -92,12 +92,17 @@
         - Java
         - LaTeX
         - GitHub
+        - Docker
         - Expo
+        - SQL
         - HTML/CSS
+        - Postgres
         - Rust
         - Solidity
-        - Docker
-        - Django
+        - Flask
+        - PyTorch
+        - Numpy
+        - ArangoDB
         - CompTIA
 # - title: Open Source Projects
 #   type: time_table

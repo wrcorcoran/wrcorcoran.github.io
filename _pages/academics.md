@@ -6,7 +6,7 @@ nav: true
 nav_order: 2
 ---
 ## transcript
-[access my transcript here!](/assets/pdf/wcorcoran-transcript-9.20.pdf)
+[access my transcript here!](/assets/pdf/wcorcoran-transcript-1.3.pdf)
 
 ---
 
@@ -40,16 +40,19 @@ Throughout my time at UCSB, I have taken a variety of classes. Nonetheless, I've
 - [Writing 107WC: Writing Web Content Online](https://my.sa.ucsb.edu/catalog/current/CollegesDepartments/ls-intro/writ.aspx?DeptTab=Courses), **A**
 
 #### **fall 2023**
-- [CS 130A: Data Structures and Algorithms I](https://sites.cs.ucsb.edu/~vigoda/OLD-130A-Fall22/), **A**
-- [CS 111: Introduction to Computational Science (Matrices)](https://ucsb-cs111.github.io/), **N/A**
-- [CS 110: Introduction to Research in Computer Science](https://ersp.cs.ucsb.edu/), **N/A**
-- [Physics 2: Basic Physics II](https://my.sa.ucsb.edu/catalog/Current/CollegesDepartments/ls-intro/phys.aspx?DeptTab=Courses), **N/A**
+- [CS 130A: Data Structures and Algorithms I](https://sites.cs.ucsb.edu/~vigoda/130A-Fall23/index.html), **A**
+- [CS 111: Introduction to Computational Science (Matrices)](https://ucsb-cs111.github.io/), **A+**
+- [CS 110: Introduction to Research in Computer Science](https://ersp.cs.ucsb.edu/), **A**
+- [Physics 2: Basic Physics II](https://my.sa.ucsb.edu/catalog/Current/CollegesDepartments/ls-intro/phys.aspx?DeptTab=Courses), **A**
 
-#### *tentatives for winter 2024 and spring 2024*
-- CS 130B: Data Structures and Algorithms II
-- CS 64: Introduction to Computer Organization
-- CS 190A: Algorithms Engineering
-- CS 165B: Machine Learning
+#### **winter 2024**
+- [CS 130B: Data Structures and Algorithms II](https://sites.cs.ucsb.edu/~vigoda/130B-Winter24/index.html), **N/A**
+- [CS 64: Introduction to Computer Organization](https://cs.ucsb.edu/education/courses/course-descriptions/computer-organization-and-logic-design), **N/A**
+- [CS 190A: Algorithms Engineering](https://cs.ucsb.edu/index.php/education/courses/special-topics-seminars/special-topics-course/cmpsc-190a-algorithms-engineering-0), **N/A**
+- [CS 165B: Machine Learning](https://sites.cs.ucsb.edu/~xyan/classes/CS165B-2023spring/syllabus.html), **N/A**
+- [CS 196: Undergraduate Research in Computer Science](https://cs.ucsb.edu/education/courses/course-descriptions/undergraduate-research), **N/A**
+
+#### *tentatives for spring 2024*
 - CS 154: Computer Architecture
 - CS 160: Translation of Programming Languages
 - ENGR 101: Ethics in Engineering
