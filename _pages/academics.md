@@ -6,7 +6,7 @@ nav: true
 nav_order: 2
 ---
 ## transcript
-[access my transcript here!](/assets/pdf/wcorcoran-transcript-1.3.pdf)
+[access my transcript here!](/assets/pdf/wcorcoran-transcript-3.28.pdf)
 
 ---
 
@@ -15,6 +15,7 @@ Throughout my time at UCSB, I have taken a variety of classes. Nonetheless, I've
 - Dean's List (all quarters)
 - Regents Scholar (given to the top 1% of incoming students)
 - Engineering Honors Program (all quarters)
+- Early Research Scholar
 
 ---
 
@@ -46,14 +47,18 @@ Throughout my time at UCSB, I have taken a variety of classes. Nonetheless, I've
 - [Physics 2: Basic Physics II](https://my.sa.ucsb.edu/catalog/Current/CollegesDepartments/ls-intro/phys.aspx?DeptTab=Courses), **A**
 
 #### **winter 2024**
-- [CS 130B: Data Structures and Algorithms II](https://sites.cs.ucsb.edu/~vigoda/130B-Winter24/index.html), **N/A**
-- [CS 64: Introduction to Computer Organization](https://cs.ucsb.edu/education/courses/course-descriptions/computer-organization-and-logic-design), **N/A**
-- [CS 190A: Algorithms Engineering](https://cs.ucsb.edu/index.php/education/courses/special-topics-seminars/special-topics-course/cmpsc-190a-algorithms-engineering-0), **N/A**
-- [CS 165B: Machine Learning](https://sites.cs.ucsb.edu/~xyan/classes/CS165B-2023spring/syllabus.html), **N/A**
+- [CS 130B: Data Structures and Algorithms II](https://sites.cs.ucsb.edu/~vigoda/130B-Winter24/index.html), **A**
+- [CS 64: Introduction to Computer Organization](https://cs.ucsb.edu/education/courses/course-descriptions/computer-organization-and-logic-design), **A+**
+- [CS 190A: Algorithms Engineering](https://cs.ucsb.edu/index.php/education/courses/special-topics-seminars/special-topics-course/cmpsc-190a-algorithms-engineering-0), **A**
+- [CS 165B: Machine Learning](https://sites.cs.ucsb.edu/~xyan/classes/CS165B-2023spring/syllabus.html), **A+**
+- [CS 196: Undergraduate Research in Computer Science](https://cs.ucsb.edu/education/courses/course-descriptions/undergraduate-research), **A+**
+
+#### **spring 2024**
+- [CS 154: Computer Architecture](https://cs.ucsb.edu/education/courses/course-descriptions/computer-architecture), **N/A**
+- [CS 160: Translation of Programming Languages](https://sites.cs.ucsb.edu/~bultan/courses/160/), **N/A**
+- [CS 165A: Artificial Intelligence](https://sites.cs.ucsb.edu/~yuxiangw/classes/AICourse-2023Spring/), **N/A**
 - [CS 196: Undergraduate Research in Computer Science](https://cs.ucsb.edu/education/courses/course-descriptions/undergraduate-research), **N/A**
 
-#### *tentatives for spring 2024*
-- CS 154: Computer Architecture
-- CS 160: Translation of Programming Languages
-- ENGR 101: Ethics in Engineering
-- CS 196: Undergraduate Research
+- [Undergrad Learning Assistant](https://cs.ucsb.edu/education/undergraduate/learning-assistant-program)
+  - CS 130A: Data Structures and Algorithms I
+  
