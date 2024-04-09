@@ -32,7 +32,7 @@ Please see the [research log](https://github.com/wrcorcoran/2324_TeamSingh_ERSP)
 
 We have pivoted to the [*minimum edge set perturbation problem*](https://github.com/wrcorcoran/minimum-edge-set-perturbation). Here is the guiding question:
 
-What is the maximum number of edges which can be added to a graph without changing the accuracy of a graph neural network classification? Are there certain metrics (homophily, degree, nearest neighbors), which provide an algorithmic way to do add these edges? How does this compare to standard adversarial attacks?
+What is the maximum number of edges that can be added to a graph without changing the accuracy of a graph neural network classification? Are there certain metrics (homophily, degree, nearest neighbors), that provide an algorithmic way to add these edges? How does this compare to standard adversarial attacks?
 
 ---
 ## Fall
