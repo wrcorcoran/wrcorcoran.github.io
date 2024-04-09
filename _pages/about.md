@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 
 Hello there!
 
-Currently, I'm a second-year computer science student at the University of California, Santa Barbara. While I am only a second year, I will graduate early in the Spring of 2025, making me a junior. As of now, I plan on getting my master's degree in computer science and heading to industry after.
+Currently, I'm a second-year computer science student at the University of California, Santa Barbara. While I am only a second year, I will graduate early in the Spring of 2025, making me a junior. As of now, I plan on getting my master's degree in computer science and am unsure about PhD or industry.
 
 Originally, I'm from Burlington, Washington, a semi-rural farm town about an hour north of Seattle. I love the Pacific Northwest and consider it my home, however, Santa Barbara is hard to beat. I consider myself extremely blessed to study at a university in such a beautiful place.
 
