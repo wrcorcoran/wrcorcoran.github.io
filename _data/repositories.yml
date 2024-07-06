@@ -2,6 +2,7 @@ github_users:
   - wrcorcoran
 
 github_repos:
+  - wrcorcoran/TalkingTheory
   - wrcorcoran/querying-graphs
   - wrcorcoran/FillerAI
   - wrcorcoran/NcaamGNN
