@@ -64,8 +64,3 @@ Throughout my time at UCSB, I have taken a variety of classes. Nonetheless, I've
 - [CS 190H: Quantum Computing I](https://cs.ucsb.edu/education/courses/special-topics-seminars/special-topics-course/cmpsc-190h-quantum-computing), **N/A**
 - [CMPTGCS5: Fine-Grained Complexity](https://ccs.ucsb.edu/courses/2024/fall/fine-grained-complexity), **N/A**
 - [FEMST 60: Women of Color: Race, Class, and Ethnicity](https://catalog.ucsb.edu/courses/FEMST%2060), **N/A**
-
-
-- [Undergrad Learning Assistant](https://cs.ucsb.edu/education/undergraduate/learning-assistant-program)
-  - CS 130A: Data Structures and Algorithms I
-  
