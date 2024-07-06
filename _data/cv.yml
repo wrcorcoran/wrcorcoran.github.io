@@ -11,6 +11,9 @@
 - title: Education
   type: time_table
   contents:
+    - title: Master of Science (M.S.), Computer Science
+      institution: University of California, Santa Barbara
+      year: 2024 - 2026
     - title: Bachelor of Science (B.S.), Computer Science
       institution: University of California, Santa Barbara
       year: 2022 - 2025
@@ -23,6 +26,20 @@
 - title: Work Experience
   type: time_table
   contents:
+    - title: Software Engineering Intern
+      company: Music Audience Exchange (MAX)
+      year: 2024
+      # description:
+      #   - Conducted office hours for over 100 students, provided support regarding homework, exams, and programming problems.
+      #   - Graded 800 assignments and administered 2 exams, ensured students understand complex, challenging concepts.
+      #   - Corresponded with the teaching team to ensure optimal student learning and manage course pace.
+    - title: Data Structures and Algorithms, Undergraduate Learning Assistant
+      company: UCSB, Computer Science
+      year: 2024
+      description:
+        - Conducted office hours for over 100 students, provided support regarding homework, exams, and programming problems.
+        - Graded 800 assignments and administered 2 exams, ensured students understand complex, challenging concepts.
+        - Corresponded with the teaching team to ensure optimal student learning and manage course pace.
     - title: Fullstack Software Engineering Intern
       company: Haggard Labs, Yopp
       year: 2023
@@ -32,13 +49,6 @@
         - Optimized data writing and retrieval by up to 80% through NoSQL database management.
         - Engineered secure serverless functions to retrieve financial data from external entities via RESTful APIs, leveraging Node.js and Firebase Cloud Functions.
         - Communicated closely with the oversight team to ensure quality control and align design with strategic objectives.
-    - title: Data Structures and Algorithms, Undergraduate Learning Assistant
-      company: UCSB, Computer Science
-      year: 2024
-      description:
-        - Conducted office hours for more than one hundred students, providing support regarding homework sets and exams. 
-        - Graded assignments and administered exams, giving constructive feedback to benefit the education of students. 
-        - Corresponded with the teaching team to ensure optimal student learning and manage course pace. 
 - title: Research Experience
   type: time_table
   contents:
@@ -89,29 +99,36 @@
   contents:
     - title: order of proficiency
       items:
-        - C++
-        - Python (with various packages)
-        - JavaScript
-        - TypeScript
-        - React Native
-        - Firebase
-        - Node.js
-        - Adobe Suite
-        - Java
-        - LaTeX
-        - GitHub
-        - Docker
-        - Expo
-        - SQL
-        - HTML/CSS
-        - Postgres
-        - Rust
-        - Solidity
-        - Flask
-        - PyTorch
-        - Numpy
-        - ArangoDB
-        - CompTIA
+      - Python
+      - C++
+      - JavaScript
+      - TypeScript
+      - Java
+      - Rust
+      - SQL
+      - HTML/CSS
+      - React Native
+      - Node.js
+      - React.js
+      - Next.js
+      - Django
+      - Flask
+      - Expo
+      - Google Cloud Platform (GCP)
+      - Cloudflare
+      - Vitest
+      - Bash/Scripting
+      - Git/GitHub
+      - Docker
+      - Postgres
+      - NoSQL DBs
+      - Scikit-learn
+      - PyTorch
+      - PyTorch Geometric
+      - NetworkX
+      - Pandas
+      - NumPy
+      - Matplotlib
 # - title: Open Source Projects
 #   type: time_table
 #   contents:

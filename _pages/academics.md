@@ -6,7 +6,7 @@ nav: true
 nav_order: 2
 ---
 ## transcript
-[access my transcript here!](/assets/pdf/wcorcoran-transcript-3.28.pdf)
+[access my transcript here!](/assets/pdf/wcorcoran-transcript-7.5.pdf)
 
 ---
 
@@ -54,10 +54,17 @@ Throughout my time at UCSB, I have taken a variety of classes. Nonetheless, I've
 - [CS 196: Undergraduate Research in Computer Science](https://cs.ucsb.edu/education/courses/course-descriptions/undergraduate-research), **A+**
 
 #### **spring 2024**
-- [CS 154: Computer Architecture](https://cs.ucsb.edu/education/courses/course-descriptions/computer-architecture), **N/A**
-- [CS 160: Translation of Programming Languages](https://sites.cs.ucsb.edu/~bultan/courses/160/), **N/A**
-- [CS 165A: Artificial Intelligence](https://sites.cs.ucsb.edu/~yuxiangw/classes/AICourse-2023Spring/), **N/A**
-- [CS 196: Undergraduate Research in Computer Science](https://cs.ucsb.edu/education/courses/course-descriptions/undergraduate-research), **N/A**
+- [CS 154: Computer Architecture](https://cs.ucsb.edu/education/courses/course-descriptions/computer-architecture), **A**
+- [CS 160: Translation of Programming Languages](https://sites.cs.ucsb.edu/~bultan/courses/160/), **A+**
+- [CS 165A: Artificial Intelligence](https://sites.cs.ucsb.edu/~yuxiangw/classes/AICourse-2023Spring/), **A+**
+- [CS 196: Undergraduate Research in Computer Science](https://cs.ucsb.edu/education/courses/course-descriptions/undergraduate-research), **A+**
+
+#### **fall 2024**
+- [CS 190I: Deep Learning](https://cs.ucsb.edu/education/courses/special-topics-seminars/special-topics-course/cmpsc-190i-introduction-deep-0), **N/A**
+- [CS 190H: Quantum Computing I](https://cs.ucsb.edu/education/courses/special-topics-seminars/special-topics-course/cmpsc-190h-quantum-computing), **N/A**
+- [CMPTGCS5: Fine-Grained Complexity](https://ccs.ucsb.edu/courses/2024/fall/fine-grained-complexity), **N/A**
+- [FEMST 60: Women of Color: Race, Class, and Ethnicity](https://catalog.ucsb.edu/courses/FEMST%2060), **N/A**
+
 
 - [Undergrad Learning Assistant](https://cs.ucsb.edu/education/undergraduate/learning-assistant-program)
   - CS 130A: Data Structures and Algorithms I
