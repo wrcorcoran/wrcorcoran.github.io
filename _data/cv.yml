@@ -52,13 +52,20 @@
 - title: Research Experience
   type: time_table
   contents:
-    - title: Student Researcher
-      department: Dynamo Labs, UCSB
+    - title: Targeted Edge Perturbations on GNNs
+      department: Dynamo Lab, UCSB
       year: 2023 - 2024
       description:
-        - Examining the Minimum Edge Set Perturbation problem to measure the robustness of graph neural networks as a counter to adversarial attacks.
-        - Evaluating the efficacy of multiple heuristic approaches, including homophily and degree, in maximizing edge additions while preserving model accuracy. 
-        - Formulating a pipeline to streamline graph manipulation, GNN training and evaluation, while managing results using PyTorch Geometric, Numpy, Pandas, and Networkx.
+          - Approximate the robustness of 5 graph neural network architectures to edge perturbations, contrast results to adversarial attack responses.
+          - Evaluate the effectiveness of 4 heuristic approaches to maximize edge additions while preserving model accuracy.
+          - Invented a two-part greedy-primed gradient attack by analyzing graph characteristics and extensive literature reviews.
+    - title: Benchmarking and Improving Large Language Models on Graph Datasets
+      department: Dynamo Lab, UCSB
+      year: 2023 - 2024
+      description:
+          - Collected 20 undirected graph problems with a varying degree of difficulty, structure, and intended algorithms.
+          - Generated the first extensive graph dataset of 2000 test cases for 12 different graph categories with NetworkX.
+          - Prompted 160 solutions across 8 LLMs, while measuring performance on test cases and categories.
 
 
 - title: Leadership Experience  
@@ -68,12 +75,9 @@
       institution: CRU, Real Life
       year: 2023 - 2024
       description:
-        - Coordinated and planned weekly events, meetings, and dinners.
-        - Managed club outreach through social media, personal communication, and other forms of marketing.
-        - Communicated with other students about their beings and purpose.
-    - title: Independent Label Music Executive
+        - Coordinate and plan weekly events, meetings, and dinners; ensure all resources are supplied
       institution: 9929 Records
-      year: 2023 - 2024
+      year: 2021 - 2024
       description:
         - Developed three artists from the ground up using image and likeness, sound, and social media.
         - Created, produced, and published five albums and more than one hundred songs with over 450,000 streams.
@@ -97,7 +101,7 @@
 - title: Skills
   type: nested_list
   contents:
-    - title: order of proficiency
+    - title:
       items:
       - Python
       - C++
