@@ -6,7 +6,7 @@ nav: true
 nav_order: 2
 ---
 ## transcript
-[access my transcript here!](/assets/pdf/wcorcoran-transcript-7.5.pdf)
+[access my transcript here!](/assets/pdf/wcorcoran-transcript-latest.pdf)
 
 ---
 
@@ -60,7 +60,19 @@ Throughout my time at UCSB, I have taken a variety of classes. Nonetheless, I've
 - [CS 196: Undergraduate Research in Computer Science](https://cs.ucsb.edu/education/courses/course-descriptions/undergraduate-research), **A+**
 
 #### **fall 2024**
-- [CS 190I: Deep Learning](https://cs.ucsb.edu/education/courses/special-topics-seminars/special-topics-course/cmpsc-190i-introduction-deep-0), **N/A**
-- [CS 190H: Quantum Computing I](https://cs.ucsb.edu/education/courses/special-topics-seminars/special-topics-course/cmpsc-190h-quantum-computing), **N/A**
-- [CMPTGCS5: Fine-Grained Complexity](https://ccs.ucsb.edu/courses/2024/fall/fine-grained-complexity), **N/A**
-- [FEMST 60: Women of Color: Race, Class, and Ethnicity](https://catalog.ucsb.edu/courses/FEMST%2060), **N/A**
+- [CS 190I: Deep Learning](https://cs.ucsb.edu/education/courses/special-topics-seminars/special-topics-course/cmpsc-190i-introduction-deep-0), **A+**
+- [FEMST 60: Women of Color: Race, Class, and Ethnicity](https://catalog.ucsb.edu/courses/FEMST%2060), **A**
+- [ENGR 101: Ethics in Engineering](), **A**
+- [CS 196: Undergraduate Research in Computer Science](https://cs.ucsb.edu/education/courses/course-descriptions/undergraduate-research), **A**
+
+#### **winter 2024**
+- [CS 176A: Introduction to Computer Communication Networks](https://www.cs.ucsb.edu/index.php/education/courses/course-descriptions/introduction-computer-communication-networks), **N/A**
+- [CS 162: Programming Languages](https://www.cs.ucsb.edu/index.php/education/courses/course-descriptions/programming-languages), **N/A**
+- [CS 216: Level Set Methods](https://www.cs.ucsb.edu/index.php/education/courses/course-descriptions/level-set-methods), **N/A**
+- [CS 196: Undergraduate Research in Computer Science](https://cs.ucsb.edu/education/courses/course-descriptions/undergraduate-research), **A**
+
+#### **winter 2024**
+- [CS 134: Randomized Algorithms](https://www.cs.ucsb.edu/index.php/education/courses/course-descriptions/randomized-algorithms), **N/A**
+- [CS 170: Operating Systems](https://www.cs.ucsb.edu/index.php/education/courses/course-descriptions/operating-systems), **N/A**
+- [CS 216: Design and Implementation Techniques of Database Systems](https://www.cs.ucsb.edu/index.php/education/courses/course-descriptions/design-and-implementation-techniques-database-systems), **N/A**
+- [CS 196: Undergraduate Research in Computer Science](https://cs.ucsb.edu/education/courses/course-descriptions/undergraduate-research), **N/A**

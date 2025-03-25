@@ -1,86 +1,81 @@
 ---
 layout: page
-title: 9929 Records
-description: an independent record label
-img: assets/img/9929thumbnail.jpeg
+title: project 1
+description: with background image
+img: assets/img/12.jpg
 importance: 1
-category: music
+category: work
+related_publications: true
 ---
 
-Originally, something that started with a few friends.
+Every project has a beautiful feature showcase page.
+It's easy to include images in a flexible 3-column grid format.
+Make your photos 1/3, 2/3, or full width.
 
-It turned into so much more.
+To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
-For some time, it was my life. 
-
-I've been obsessed with music production since a very young age. Around 11 or 12, I started to play around with GarageBand on my computer. 
-I quickly asked my parents for a laptop so I could use FL Studio. I'd never felt something so interesting before. Music, and especially creating music, made me feel something I'd never felt before.
-
-I felt creative.
-
-Quickly, creativity turned into my life. I even did my valedictorian's speech on creativity.
-
-During our sophomore year, my best friends and I started to make songs. They weren't great, but they were enjoyable for us because we had made them. I convinced my family to let me turn our old chicken coop into a studio.
-I bought the nicest gear I could afford--two HS5s, a Scarlett 2i2, and a Rode NT1. Immediately, our first song was unbelievably better than before. We were hooked.
-
-Eventually, every evening was spent in the studio. We worked so hard on the projects we believed in. I grew as a mixing engineer, something I'd never done before the studio was built.
-
-About two years after the studio was built, we'd grown to a sizeable audience. We were able to throw a concert. We used my gym--rented a stage and some speakers. We roped 225 people into that small gym. It was the best night of my life.
-I received compliments I'd never thought I'd hear. We felt famous.
-
-But then, as all good things do, it came crashing down. Quicker than it arrived, my love for music died.
-
-I didn't feel creative anymore. I didn't feel like I was making anything worthwhile. I felt like I was wasting my time. 
-
-I was going to college. I needed to grow up. I needed to study.
-
-So I did. I stopped making music.
-
-After a while, one of my friends texted me and said he wanted to release one of the songs we'd made. I was hesitant, but I agreed.
-So, there I was, in my dorm room, mixing "Lova" by b3n.
-
-I cried. I cried because I realized how much I missed it. 
-
-It brought back the sensation I hadn't felt in a while. I felt creative again. I apologized to my friends and told them I was back. 
-
-I went home for Spring Break, and we rented an Airbnb. We found ourselves. This time, it was different. The genre had evolved. We were creating our vision. 
-No longer were we limiting ourselves to what we thought would be popular. We made what we felt.
-
-After all, musical composition is the translation of the artist's mental perception.
-
-Four months later, we released "To: You."
-
-"To: You" was the perfect encapsulation of all the unreleased creativity we'd had. 
-
-I consider it the epitome of our work and am beyond proud of it. 
-
-It means an insurmountable amount to me.
-
-Enjoy life. Be creative.
+    ---
+    layout: page
+    title: project
+    description: a project with a background image
+    img: /assets/img/12.jpg
+    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/IMG_3132.jpg" title="camping stu" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/IMG_6328.jpg" title="main stu" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/IMG_6421.jpg" title="concert" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    We built 9929 Records.
+    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/b3n card.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Stream "To: You" by b3n <a href="https://linktr.ee/to_you_">here</a>.
+    This image can also have a caption. It's like magic.
 </div>
 
-Stream all 9929 Records music <a href="https://spotify.link/hNofDYcFrDb">here</a>.
+You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
+Say you wanted to write a bit about your project before you posted the rest of the images.
+You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
-Enjoy.
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    You can also have artistically styled 2/3 + 1/3 images, like these.
+</div>
+
+The code is simple.
+Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
+To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
+Here's the code for the last row of images above:
+
+{% raw %}
+
+```html
+<div class="row justify-content-sm-center">
+  <div class="col-sm-8 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+  </div>
+  <div class="col-sm-4 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
+```
+
+{% endraw %}

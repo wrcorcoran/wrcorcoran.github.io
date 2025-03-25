@@ -19,17 +19,13 @@ social: true # includes social icons at the bottom of the page
 
 Hello there!
 
-Currently, I'm a third-year computer science student at the University of California, Santa Barbara. I will graduate with my Bachelor of Science in the Spring of 2025 and continue to graduate with my Master of Science in the Spring of 2026. I plan to pursue a research path, which likely will require me to obtain a PhD. I feel my learning has just begun; education is a lifelong commitment. 
+Currently, I'm a third-year computer science student at the University of California, Santa Barbara. I will graduate with my Bachelor of Science in the Spring of 2025 and continue to graduate with my Master of Science in the Spring of 2026. My interests lie in all sorts of areas: randomized algorithms and graph and topological machine learning. I've accepted an offer to be a Software Development Engineer Intern at Amazon Web Services on the Elastic Container Services team in the Summer of 2025.
 
-Originally, I'm from Burlington, Washington, a semi-rural farm town about an hour north of Seattle. I love the Pacific Northwest and consider it my home, though, Santa Barbara is hard to beat. I consider myself extremely blessed to study at a university in such a beautiful place.
-
-My interests lie in all sorts of areas: randomized algorithms, graph theory, and graph neural networks.
-<!-- I've always been an avid creative, founding an independent music label, [_9929 Records_](/projects/1_project), which has seen an incredible amount of streams. My life before college was devoted to athletics, something I still hold dear to my heart. However, as I've become dedicated to computer science, I've become enamored with theoretical computer science, specifically computation and graphs. As a bachelor's student,  -->
-I'm also an outdoors fan, and I love to hike, camp, and run.
+Originally, I'm from Burlington, Washington, a semi-rural farm town about an hour north of Seattle. I'm an outdoors fan and love to hike, camp, and run.
 
 Feel free to reach out to me via email!
 
-Please check out my [research](/research), [projects](/projects), and [cv](/cv).
+Please check out my [research](/research) and [cv](/cv).
 
 --
 

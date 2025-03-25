@@ -26,22 +26,28 @@
 - title: Work Experience
   type: time_table
   contents:
+    - title: Software Development Engineer Intern
+      institution: Amazon Web Services
+      year: 2025
+      description:
+        - Elastic Container Service Team.
     - title: Software Engineering Intern
-      company: Music Audience Exchange (MAX)
+      institution: Music Audience Exchange (MAX)
       year: 2024
-      # description:
-      #   - Conducted office hours for over 100 students, provided support regarding homework, exams, and programming problems.
-      #   - Graded 800 assignments and administered 2 exams, ensured students understand complex, challenging concepts.
-      #   - Corresponded with the teaching team to ensure optimal student learning and manage course pace.
+      description:
+        - Delivered algorithms to gather and format various metadata for 1000s of artist sites into well-structured responses, improving data collection times by up to 1,500%.
+        - Enhanced recommendation system efficiency by 380% through profiling, statistical analysis, and intelligent approximations.
+        - Contributed to 15 API endpoints, including a subdomain generation tool using OpenAI’s API and Cloudflare with caching for accelerated recall.
+        - Established a scheduling software to automate updates for 3 user-relevant datasets with queuing to minimize system stress.
     - title: Data Structures and Algorithms, Undergraduate Learning Assistant
-      company: UCSB, Computer Science
-      year: 2024
+      institution: UCSB, Computer Science
+      year: 2024 - 2025
       description:
         - Conducted office hours for over 100 students, provided support regarding homework, exams, and programming problems.
         - Graded 800 assignments and administered 2 exams, ensured students understand complex, challenging concepts.
         - Corresponded with the teaching team to ensure optimal student learning and manage course pace.
     - title: Fullstack Software Engineering Intern
-      company: Haggard Labs, Yopp
+      institution: Haggard Labs
       year: 2023
       description:
         - Assisted the launch of Yopp, a financial wealth aggregation application, with a focus on user experience and interface.
@@ -52,17 +58,23 @@
 - title: Research Experience
   type: time_table
   contents:
+    - title: Improving Bounds for Randomly Sampling Graph Colorings
+      department: Eric Vigoda, UCSB
+      year: 2024 - 2025
+      description:
+          - Work to improve (11/6 − ϵ) bound using Markov chain Monte Carlo and linear programming.
     - title: Targeted Edge Perturbations on GNNs
       department: Dynamo Lab, UCSB
-      year: 2023 - 2024
+      year: 2023 - 2025
       description:
           - Approximate the robustness of 5 graph neural network architectures to edge perturbations, contrast results to adversarial attack responses.
           - Evaluate the effectiveness of 4 heuristic approaches to maximize edge additions while preserving model accuracy.
           - Invented a two-part greedy-primed gradient attack by analyzing graph characteristics and extensive literature reviews.
-    - title: Benchmarking and Improving Large Language Models on Graph Datasets
+    - title: GraphEval36K - Benchmarking Reasoning Capabilities of LLMs on Graph Datasets
       department: Dynamo Lab, UCSB
-      year: 2023 - 2024
+      year: 2024
       description:
+          - Accepted to NA ACL.
           - Collected 20 undirected graph problems with a varying degree of difficulty, structure, and intended algorithms.
           - Generated the first extensive graph dataset of 2000 test cases for 12 different graph categories with NetworkX.
           - Prompted 160 solutions across 8 LLMs, while measuring performance on test cases and categories.
@@ -73,15 +85,9 @@
   contents:
     - title: Leadership Committee
       institution: CRU, Real Life
-      year: 2023 - 2024
+      year: 2023 - 2025
       description:
         - Coordinate and plan weekly events, meetings, and dinners; ensure all resources are supplied
-      institution: 9929 Records
-      year: 2021 - 2024
-      description:
-        - Developed three artists from the ground up using image and likeness, sound, and social media.
-        - Created, produced, and published five albums and more than one hundred songs with over 450,000 streams.
-        - Analyzed trends and data to create a marketing plan for each release and performance.
 
 - title: Volunteering
   type: time_table
@@ -98,41 +104,41 @@
       description:
         - Met with prospective students about experience as a Computer Science major and Regents Scholar.
 
-- title: Skills
-  type: nested_list
-  contents:
-    - title:
-      items:
-      - Python
-      - C++
-      - JavaScript
-      - TypeScript
-      - Java
-      - Rust
-      - SQL
-      - HTML/CSS
-      - React Native
-      - Node.js
-      - React.js
-      - Next.js
-      - Django
-      - Flask
-      - Expo
-      - Google Cloud Platform (GCP)
-      - Cloudflare
-      - Vitest
-      - Bash/Scripting
-      - Git/GitHub
-      - Docker
-      - Postgres
-      - NoSQL DBs
-      - Scikit-learn
-      - PyTorch
-      - PyTorch Geometric
-      - NetworkX
-      - Pandas
-      - NumPy
-      - Matplotlib
+# - title: Skills
+#   type: nested_list
+#   contents:
+#     - title:
+#       items:
+#       - Python
+#       - C++
+#       - JavaScript
+#       - TypeScript
+#       - Java
+#       - Rust
+#       - SQL
+#       - HTML/CSS
+#       - React Native
+#       - Node.js
+#       - React.js
+#       - Next.js
+#       - Django
+#       - Flask
+#       - Expo
+#       - Google Cloud Platform (GCP)
+#       - Cloudflare
+#       - Vitest
+#       - Bash/Scripting
+#       - Git/GitHub
+#       - Docker
+#       - Postgres
+#       - NoSQL DBs
+#       - Scikit-learn
+#       - PyTorch
+#       - PyTorch Geometric
+#       - NetworkX
+#       - Pandas
+#       - NumPy
+#       - Matplotlib
 # - title: Open Source Projects
 #   type: time_table
 #   contents:
