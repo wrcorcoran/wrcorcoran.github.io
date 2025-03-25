@@ -1,97 +1,175 @@
-- title: General Information
+- title: Basics
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Will Ryan Corcoran
+    - name: Phone Number
+      value: 360 708 7616
+    - name: Email
+      value: wcorcoran !at! ucsb !dot! edu
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master of Science (M.S.), Computer Science
+      institution: University of California, Santa Barbara
+      year: 2024 - 2026
+    - title: Bachelor of Science (B.S.), Computer Science
+      institution: University of California, Santa Barbara
+      year: 2022 - 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Early Research Scholar
+        - Regents Scholar
+        - College of Engineering Honors
+        - Dean's Honors
 
-- title: Experience
+- title: Work Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Software Development Engineer Intern
+      institution: Amazon Web Services
+      year: 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Elastic Container Service Team.
+    - title: Software Engineering Intern
+      institution: Music Audience Exchange (MAX)
+      year: 2024
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Delivered algorithms to gather and format various metadata for 1000s of artist sites into well-structured responses, improving data collection times by up to 1,500%.
+        - Enhanced recommendation system efficiency by 380% through profiling, statistical analysis, and intelligent approximations.
+        - Contributed to 15 API endpoints, including a subdomain generation tool using OpenAI’s API and Cloudflare with caching for accelerated recall.
+        - Established a scheduling software to automate updates for 3 user-relevant datasets with queuing to minimize system stress.
+    - title: Data Structures and Algorithms, Undergraduate Learning Assistant
+      institution: UCSB, Computer Science
+      year: 2024 - 2025
       description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+        - Conducted office hours for over 100 students, provided support regarding homework, exams, and programming problems.
+        - Graded 800 assignments and administered 2 exams, ensured students understand complex, challenging concepts.
+        - Corresponded with the teaching team to ensure optimal student learning and manage course pace.
+    - title: Fullstack Software Engineering Intern
+      institution: Haggard Labs
+      year: 2023
+      description:
+        - Assisted the launch of Yopp, a financial wealth aggregation application, with a focus on user experience and interface.
+        - Designed an ease-of-use platform for simple addition and relevant analysis with React Native and TypeScript.
+        - Optimized data writing and retrieval by up to 80% through NoSQL database management.
+        - Engineered secure serverless functions to retrieve financial data from external entities via RESTful APIs, leveraging Node.js and Firebase Cloud Functions.
+        - Communicated closely with the oversight team to ensure quality control and align design with strategic objectives.
+- title: Research Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Improving Bounds for Randomly Sampling Graph Colorings
+      department: Eric Vigoda, UCSB
+      year: 2024 - 2025
+      description:
+          - Work to improve (11/6 − ϵ) bound using Markov chain Monte Carlo and linear programming.
+    - title: Targeted Edge Perturbations on GNNs
+      department: Dynamo Lab, UCSB
+      year: 2023 - 2025
+      description:
+          - Approximate the robustness of 5 graph neural network architectures to edge perturbations, contrast results to adversarial attack responses.
+          - Evaluate the effectiveness of 4 heuristic approaches to maximize edge additions while preserving model accuracy.
+          - Invented a two-part greedy-primed gradient attack by analyzing graph characteristics and extensive literature reviews.
+    - title: GraphEval36K - Benchmarking Reasoning Capabilities of LLMs on Graph Datasets
+      department: Dynamo Lab, UCSB
+      year: 2024
+      description:
+          - Accepted to NA ACL.
+          - Collected 20 undirected graph problems with a varying degree of difficulty, structure, and intended algorithms.
+          - Generated the first extensive graph dataset of 2000 test cases for 12 different graph categories with NetworkX.
+          - Prompted 160 solutions across 8 LLMs, while measuring performance on test cases and categories.
 
-- title: Honors and Awards
+
+- title: Leadership Experience  
   type: time_table
   contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - title: Leadership Committee
+      institution: CRU, Real Life
+      year: 2023 - 2025
+      description:
+        - Coordinate and plan weekly events, meetings, and dinners; ensure all resources are supplied
 
-- title: Academic Interests
-  type: nested_list
+- title: Volunteering
+  type: time_table
   contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: 8th Grade Math Volunteer
+      institution: Goleta Valley Junior High School
+      year: 2022 - 2024
+      description:
+        - Led a group of five or more students down paths to accomplish classwork and review homework.
+        - Provided support for instructor of under-performing class through individualized, targeted instruction.
+    - title: Open House Assistant
+      institution: UCSB
+      year: April 2023
+      description:
+        - Met with prospective students about experience as a Computer Science major and Regents Scholar.
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+# - title: Skills
+#   type: nested_list
+#   contents:
+#     - title:
+#       items:
+#       - Python
+#       - C++
+#       - JavaScript
+#       - TypeScript
+#       - Java
+#       - Rust
+#       - SQL
+#       - HTML/CSS
+#       - React Native
+#       - Node.js
+#       - React.js
+#       - Next.js
+#       - Django
+#       - Flask
+#       - Expo
+#       - Google Cloud Platform (GCP)
+#       - Cloudflare
+#       - Vitest
+#       - Bash/Scripting
+#       - Git/GitHub
+#       - Docker
+#       - Postgres
+#       - NoSQL DBs
+#       - Scikit-learn
+#       - PyTorch
+#       - PyTorch Geometric
+#       - NetworkX
+#       - Pandas
+#       - NumPy
+#       - Matplotlib
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 1921
+#       items:
+#         - Nobel Prize in Physics
+#         - Matteucci Medal
+#     - year: 2029
+#       items:
+#         - Max Planck Medal
+
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items:
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
+
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
