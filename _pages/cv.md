@@ -1,11 +1,19 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
 title: cv
-description: Please see my resume (pdf to the right) for a complete list of experiences, projects, and skills!
 nav: true
-nav_order: 7
-cv_pdf: wc-cv-3.24.pdf
-toc:
-  sidebar: left
+nav_order: 4
 ---
+
+<object data="../assets/pdf/wcorcoran-cv-latest.pdf" width="100%" height="800" type="application/pdf">
+  <a href="../assets/pdf/wcorcoran-cv-latest.pdf">Download CV (PDF)</a>
+</object>
+
+---
+
+## transcript
+
+<object data="../assets/pdf/wcorcoran-transcript-latest.pdf" width="100%" height="800" type="application/pdf">
+  <a href="../assets/pdf/wcorcoran-transcript-latest.pdf">Download Transcript (PDF)</a>
+</object>

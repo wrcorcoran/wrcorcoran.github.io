@@ -1,0 +1,35 @@
+name: Notion Sync
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # daily at midnight UTC
+  workflow_dispatch: # manual trigger from Actions tab
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install notion-client requests
+
+      - name: Run Notion sync
+        run: python .github/scripts/notion_sync.py
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "notion-sync[bot]"
+          git config user.email "notion-sync[bot]@users.noreply.github.com"
+          git add _writing/ assets/img/writing/
+          git diff --staged --quiet || (git commit -m "sync: update writing from Notion" && git push)

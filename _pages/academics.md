@@ -2,7 +2,7 @@
 layout: page
 permalink: /academics/
 title: academics
-nav: true
+nav: false
 nav_order: 2
 ---
 ## transcript
