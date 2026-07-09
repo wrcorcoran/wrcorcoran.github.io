@@ -19,7 +19,7 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install notion-client requests
+        run: pip install requests
 
       - name: Run Notion sync
         run: python .github/scripts/notion_sync.py
