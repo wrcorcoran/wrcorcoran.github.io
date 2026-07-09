@@ -416,16 +416,6 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "writing-test-musing-writing",
-          title: 'Test Musing Writing',
-          description: "Test",
-          section: "Writing",handler: () => {
-              window.location.href = "/writing/2026-07-08-test-writing-2/";
-            },},{id: "writing-test-writing",
-          title: 'Test Writing',
-          description: "Testing",
-          section: "Writing",handler: () => {
-              window.location.href = "/writing/2026-07-09-test-writing/";
             },},{
         id: 'social-email',
         title: 'email',
